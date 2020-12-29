@@ -1,0 +1,346 @@
+{
+    "$type": "LevelEditorLevelData, Assembly-CSharp",
+    "RootLevelObject": {
+        "$type": "LevelEditorLevelObject, Assembly-CSharp",
+        "Name": "LevelRoot",
+        "UniqueIndex": 0,
+        "LevelObjectEntry": null,
+        "Transform": {
+            "$type": "LevelEditorTransform, Assembly-CSharp",
+            "Position": {
+                "$type": "System.Single[], mscorlib",
+                "$values": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "Rotation": {
+                "$type": "System.Single[], mscorlib",
+                "$values": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            },
+            "Scale": {
+                "$type": "System.Single[], mscorlib",
+                "$values": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            }
+        },
+        "CustomInspectorFloatValues": null,
+        "CustomInspectorIntValues": null,
+        "CustomInspectorStringValues": null,
+        "CustomInspectorBoolValues": null,
+        "CustomInspectorColorValues": null,
+        "Children": {
+            "$type": "System.Collections.Generic.List`1[[LevelEditorLevelObject, Assembly-CSharp]], mscorlib",
+            "$values": [
+                {
+                    "$type": "LevelEditorLevelObject, Assembly-CSharp",
+                    "Name": "Bow1(Clone)",
+                    "UniqueIndex": 1,
+                    "LevelObjectEntry": {
+                        "$type": "LevelObjectEntry, Assembly-CSharp",
+                        "DisplayName": "Bow1",
+                        "PathUnderResources": "Prefabs/LevelObjects/EnemySpawns/Bow1",
+                        "PreviewPathUnderResources": "Prefabs/LevelObjects/EnemySpawns/Bow1.png"
+                    },
+                    "Transform": {
+                        "$type": "LevelEditorTransform, Assembly-CSharp",
+                        "Position": {
+                            "$type": "System.Single[], mscorlib",
+                            "$values": [
+                                24.9482613,
+                                0.0,
+                                21.0142212
+                            ]
+                        },
+                        "Rotation": {
+                            "$type": "System.Single[], mscorlib",
+                            "$values": [
+                                0.0,
+                                0.0,
+                                0.0,
+                                1.0
+                            ]
+                        },
+                        "Scale": {
+                            "$type": "System.Single[], mscorlib",
+                            "$values": [
+                                10.0,
+                                10.0,
+                                10.0
+                            ]
+                        }
+                    },
+                    "CustomInspectorFloatValues": {
+                        "$type": "System.Collections.Generic.List`1[[CustomInspectorFloatValue, Assembly-CSharp]], mscorlib",
+                        "$values": [
+                            {
+                                "$type": "CustomInspectorFloatValue, Assembly-CSharp",
+                                "Value": -1.0,
+                                "ClassName": "LevelEnemySpawner",
+                                "FieldName": "DontMoveUntilPlayerRange",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            }
+                        ]
+                    },
+                    "CustomInspectorIntValues": {
+                        "$type": "System.Collections.Generic.List`1[[CustomInspectorIntValue, Assembly-CSharp]], mscorlib",
+                        "$values": [
+                            {
+                                "$type": "CustomInspectorIntValue, Assembly-CSharp",
+                                "Value": 0,
+                                "ClassName": "LevelEnemySpawner",
+                                "FieldName": "DifficultyGroupIndex",
+                                "IsHiddenField": true,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            },
+                            {
+                                "$type": "CustomInspectorIntValue, Assembly-CSharp",
+                                "Value": 0,
+                                "ClassName": "LevelEnemySpawner",
+                                "FieldName": "RiderType",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            }
+                        ]
+                    },
+                    "CustomInspectorStringValues": {
+                        "$type": "System.Collections.Generic.List`1[[CustomInspectorStringValue, Assembly-CSharp]], mscorlib",
+                        "$values": [
+                            {
+                                "$type": "CustomInspectorStringValue, Assembly-CSharp",
+                                "Value": "",
+                                "ClassName": "LevelEnemySpawner",
+                                "FieldName": "TriggerZones",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            },
+                            {
+                                "$type": "CustomInspectorStringValue, Assembly-CSharp",
+                                "Value": "",
+                                "ClassName": "PlayAnimationOnCharacter",
+                                "FieldName": "UpperBodyAnimation",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            },
+                            {
+                                "$type": "CustomInspectorStringValue, Assembly-CSharp",
+                                "Value": "",
+                                "ClassName": "PlayAnimationOnCharacter",
+                                "FieldName": "LegsAnimation",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            },
+                            {
+                                "$type": "CustomInspectorStringValue, Assembly-CSharp",
+                                "Value": "",
+                                "ClassName": "PlayRealtimeSpeech",
+                                "FieldName": "SpeechText",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            },
+                            {
+                                "$type": "CustomInspectorStringValue, Assembly-CSharp",
+                                "Value": "",
+                                "ClassName": "SectionMember",
+                                "FieldName": "Sections",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            }
+                        ]
+                    },
+                    "CustomInspectorBoolValues": {
+                        "$type": "System.Collections.Generic.List`1[[CustomInspectorBoolValue, Assembly-CSharp]], mscorlib",
+                        "$values": [
+                            {
+                                "$type": "CustomInspectorBoolValue, Assembly-CSharp",
+                                "Value": false,
+                                "ClassName": "LevelEditorToolRestrictionOverride",
+                                "FieldName": "AllowCustomRotation",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            },
+                            {
+                                "$type": "CustomInspectorBoolValue, Assembly-CSharp",
+                                "Value": false,
+                                "ClassName": "LevelEnemySpawner",
+                                "FieldName": "IsAlly",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            },
+                            {
+                                "$type": "CustomInspectorBoolValue, Assembly-CSharp",
+                                "Value": false,
+                                "ClassName": "LevelEnemySpawner",
+                                "FieldName": "ApplyArmor",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            },
+                            {
+                                "$type": "CustomInspectorBoolValue, Assembly-CSharp",
+                                "Value": false,
+                                "ClassName": "LevelEnemySpawner",
+                                "FieldName": "IgnoreForVictoryCount",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            },
+                            {
+                                "$type": "CustomInspectorBoolValue, Assembly-CSharp",
+                                "Value": false,
+                                "ClassName": "LevelEnemySpawner",
+                                "FieldName": "DisableMindTransfers",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            },
+                            {
+                                "$type": "CustomInspectorBoolValue, Assembly-CSharp",
+                                "Value": false,
+                                "ClassName": "LevelEnemySpawner",
+                                "FieldName": "DisableMindTransfersIfInactive",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            },
+                            {
+                                "$type": "CustomInspectorBoolValue, Assembly-CSharp",
+                                "Value": false,
+                                "ClassName": "LevelEnemySpawner",
+                                "FieldName": "SharedAcrossDifficulties",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            },
+                            {
+                                "$type": "CustomInspectorBoolValue, Assembly-CSharp",
+                                "Value": false,
+                                "ClassName": "LevelEnemySpawner",
+                                "FieldName": "DontSpawnForTwitchMode",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            },
+                            {
+                                "$type": "CustomInspectorBoolValue, Assembly-CSharp",
+                                "Value": false,
+                                "ClassName": "LevelEnemySpawner",
+                                "FieldName": "OnlyTargetPlayer",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            },
+                            {
+                                "$type": "CustomInspectorBoolValue, Assembly-CSharp",
+                                "Value": false,
+                                "ClassName": "LevelEnemySpawner",
+                                "FieldName": "OnlyTargetPlayerAllies",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            },
+                            {
+                                "$type": "CustomInspectorBoolValue, Assembly-CSharp",
+                                "Value": false,
+                                "ClassName": "PlayAnimationOnCharacter",
+                                "FieldName": "ManualUpperAnimationOn",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            },
+                            {
+                                "$type": "CustomInspectorBoolValue, Assembly-CSharp",
+                                "Value": false,
+                                "ClassName": "PlayAnimationOnCharacter",
+                                "FieldName": "ManualLegsAnimationOn",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            },
+                            {
+                                "$type": "CustomInspectorBoolValue, Assembly-CSharp",
+                                "Value": false,
+                                "ClassName": "PlayAnimationOnCharacter",
+                                "FieldName": "ForceWeaponDamageOn",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            },
+                            {
+                                "$type": "CustomInspectorBoolValue, Assembly-CSharp",
+                                "Value": false,
+                                "ClassName": "PlayAnimationOnCharacter",
+                                "FieldName": "UnequipWeapons",
+                                "IsHiddenField": false,
+                                "IsHiddenFromNonUnityEditor": false,
+                                "ChangesFieldVisibility": false
+                            }
+                        ]
+                    },
+                    "CustomInspectorColorValues": {
+                        "$type": "System.Collections.Generic.List`1[[CustomInspectorColorValue, Assembly-CSharp]], mscorlib",
+                        "$values": []
+                    },
+                    "Children": {
+                        "$type": "System.Collections.Generic.List`1[[LevelEditorLevelObject, Assembly-CSharp]], mscorlib",
+                        "$values": []
+                    }
+                }
+            ]
+        }
+    },
+    "DifficultyConfigurations": {
+        "$type": "System.Collections.Generic.List`1[[LevelEditorDifficultyData, Assembly-CSharp]], mscorlib",
+        "$values": [
+            {
+                "$type": "LevelEditorDifficultyData, Assembly-CSharp",
+                "DifficultyTier": 1,
+                "EnemiesInLevel": {
+                    "$type": "System.Collections.Generic.List`1[[EnemyCount, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                        {
+                            "$type": "EnemyCount, Assembly-CSharp",
+                            "EnemyType": 2,
+                            "Count": 1,
+                            "CountWithArmor": 0
+                        }
+                    ]
+                },
+                "SavedVersionNumber": 1,
+                "BeatenVersionNumber": 1
+            }
+        ]
+    },
+    "Sections": {
+        "$type": "System.Collections.Generic.List`1[[LevelSection, Assembly-CSharp]], mscorlib",
+        "$values": []
+    },
+    "WorkshopUploadID": 0,
+    "Title": null,
+    "Description": null,
+    "AuthorName": null,
+    "DialogueTag": null,
+    "ExportedByVersion": null,
+    "ArenaIsHidden": false,
+    "LevelType": 0
+}
