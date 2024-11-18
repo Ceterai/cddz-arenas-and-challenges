@@ -1,1 +1,24 @@
-{"$type":"LevelEditorConfigData, Assembly-CSharp","LastEditedLevelPathUnderLevelsFolder":"DefeatKrampus","ToggledOpenFolderPaths":{"$type":"System.Collections.Generic.HashSet`1[[System.String, mscorlib]], System.Core","$values":["Magic/My Cool Folder","Old","My Cool Folder","InProgress"]},"IsUsingResourcesFolder":false,"LastCameraPosition":{"x":-124.112556,"y":181.749069,"z":-61.0556679},"LastCameraEulerAngles":{"x":31.4360523,"y":210.299164,"z":-0.000358231162},"LastCameraOrtographicSize":113.368973}
+{
+    "$type": "LevelEditorConfigData, Assembly-CSharp",
+    "LastEditedLevelPathUnderLevelsFolder": "Fortress/FortressI",
+    "ToggledOpenFolderPaths": {
+        "$type": "System.Collections.Generic.HashSet`1[[System.String, mscorlib]], System.Core",
+        "$values": [
+            "Magic/My Cool Folder",
+            "Old",
+            "My Cool Folder"
+        ]
+    },
+    "IsUsingResourcesFolder": false,
+    "LastCameraPosition": {
+        "x": 21.9439449,
+        "y": 25.4765511,
+        "z": -11.98299
+    },
+    "LastCameraEulerAngles": {
+        "x": 25.0550747,
+        "y": 322.1487,
+        "z": 0.000316665828
+    },
+    "LastCameraOrtographicSize": 51.8833733
+}

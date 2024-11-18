@@ -1,1 +1,494 @@
-{"$type":"ChallengeEditorData, Assembly-CSharp","LastEditedChallenge":"00000000-0000-0000-0000-000000000000","Challenges":{"$type":"System.Collections.Generic.List`1[[LevelEditorChallengeData, Assembly-CSharp]], mscorlib","$values":[{"$type":"LevelEditorChallengeData, Assembly-CSharp","UniqueChallengeID":"34896be0-1af8-4b10-8ee3-5f26fd4d87df","LevelsAndDifficulties":{"$type":"System.Collections.Generic.List`1[[LevelAndDifficulty, Assembly-CSharp]], mscorlib","$values":[{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Magic/Challenge/MagicForestSkyBronze","DifficultyIndex":0,"DialogueTagOverride":null},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Magic/Challenge/MagicForestSky","DifficultyIndex":0,"DialogueTagOverride":"jump into the ring"},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Magic/Challenge/MagicForestSkySilver","DifficultyIndex":0,"DialogueTagOverride":"kick bots"},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Magic/Challenge/MagicForestSkyBronze","DifficultyIndex":0,"DialogueTagOverride":"1v1"},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Magic/Challenge/MagicForestSky","DifficultyIndex":6,"DialogueTagOverride":"melee"},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Magic/Challenge/MagicForestSkyGold","DifficultyIndex":0,"DialogueTagOverride":"obstacle course"},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Magic/Challenge/MagicForestSkyDiamond","DifficultyIndex":0,"DialogueTagOverride":"spider-tron 6000"},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Magic/Challenge/MagicForestSky","DifficultyIndex":8,"DialogueTagOverride":"kickfest"},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Magic/Challenge/MagicForestSky","DifficultyIndex":9,"DialogueTagOverride":"firing squad"},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Magic/Challenge/MagicForestSkyUranium","DifficultyIndex":0,"DialogueTagOverride":"moving platforms"},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Magic/Challenge/MagicForestSky","DifficultyIndex":13,"DialogueTagOverride":"swarm"},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Magic/Challenge/MagicForestSkyGold","DifficultyIndex":1,"DialogueTagOverride":"difficult journey"},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Magic/Challenge/MagicForestSky","DifficultyIndex":11,"DialogueTagOverride":"madness"}]},"DisabledUpgrades":{"$type":"System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib","$values":[]},"RemovedFromStartUpgrades":{"$type":"System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib","$values":[{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":17,"Level":1}]},"AdditionalStartUpgrades":{"$type":"System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib","$values":[{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":5,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":13,"Level":2}]},"WorkshopUploadID":2283824013,"Title":"Sky Hights Challenge","Description":"A challenge inspired by the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2248055773]Sky Hights[/url] arena.\n14 levels featuring different arenas (see screenshots).\nBe careful not to fall off!","SavedVersionNumber":105,"BeatenVersionNumber":99,"NumMindTransfers":5,"GameplayModifiers":{"$type":"System.Collections.Generic.List`1[[GameplayModifierType, Assembly-CSharp]], mscorlib","$values":[3]}},{"$type":"LevelEditorChallengeData, Assembly-CSharp","UniqueChallengeID":"6e47a392-dd91-4710-8d1c-e09cdbb4f5b6","LevelsAndDifficulties":{"$type":"System.Collections.Generic.List`1[[LevelAndDifficulty, Assembly-CSharp]], mscorlib","$values":[{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Fortress/FortressChallenge1","DifficultyIndex":0,"DialogueTagOverride":null},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Fortress/FortressChallenge2","DifficultyIndex":0,"DialogueTagOverride":"blue robots"},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Fortress/FortressI","DifficultyIndex":0,"DialogueTagOverride":"multi-story"},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Fortress/FortressII","DifficultyIndex":3,"DialogueTagOverride":"red robots"},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Fortress/FortressIII","DifficultyIndex":3,"DialogueTagOverride":"spider-tron 5000"},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Fortress/FortressIV","DifficultyIndex":9,"DialogueTagOverride":"jump over lava"},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"Fortress/FortressChallenge7","DifficultyIndex":0,"DialogueTagOverride":"difficult journey"}]},"DisabledUpgrades":{"$type":"System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib","$values":[]},"RemovedFromStartUpgrades":{"$type":"System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib","$values":[{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":17,"Level":1}]},"AdditionalStartUpgrades":{"$type":"System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib","$values":[{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":16,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":32,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":17,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":9,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":5,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":13,"Level":2},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":3,"Level":1}]},"WorkshopUploadID":2316927430,"Title":"Iron Fortress Challenge","Description":"An Iron Fortress is gradually built with every level of this 7-level challenge.\r\nStarting upgrades: Kick, Spear, Sword, Bow, Hammer, Energy 1, Life 2\r\nLevels: 1 - Bronze (600), 2 - Silver (1500), 3 - Gold (2800), 4 - Diamond (4850), 5 - Titanium (6800), 6 - Uranium (19900), 7 - Titanium (45600)\r\nEveryone has armor, levels contain spikes, conveyors, saws, lava, etc.\r\nThe challenge gets gradually more difficult with each level, so be warned.\r\n\r\nHave fun!\r\n\r\nCheckout the arenas:\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1795662950]Mk I (1 bronze, 1 silver, 1 gold, 1 diamond)[/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1795804359]Mk II (1 silver, 1 gold, 1 diamond, 1 titanium, 1 uranium)[/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1796098817]Mk III (1 gold, 1 diamond, 1 titanium, 1 uranium, 1 insanium)[/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2248356035]Mk IV (2 silver, 2 gold, 2 diamond, 2 titanium, 2 uranium, 2 insanium)[/url]","SavedVersionNumber":23,"BeatenVersionNumber":23,"NumMindTransfers":5,"GameplayModifiers":{"$type":"System.Collections.Generic.List`1[[GameplayModifierType, Assembly-CSharp]], mscorlib","$values":[2]}},{"$type":"LevelEditorChallengeData, Assembly-CSharp","UniqueChallengeID":"ab9c6ff8-eed2-4da8-8815-9bc092a55467","LevelsAndDifficulties":{"$type":"System.Collections.Generic.List`1[[LevelAndDifficulty, Assembly-CSharp]], mscorlib","$values":[{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"LavaStuff/LavaRuins","DifficultyIndex":3,"DialogueTagOverride":"lava"},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"LavaStuff/LavaRuinsExtra","DifficultyIndex":4,"DialogueTagOverride":"jump over lava"},{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"LavaStuff/LavaRuinsExtra","DifficultyIndex":3,"DialogueTagOverride":"spider-tron 6000"}]},"DisabledUpgrades":{"$type":"System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib","$values":[]},"RemovedFromStartUpgrades":{"$type":"System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib","$values":[]},"AdditionalStartUpgrades":{"$type":"System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib","$values":[{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":13,"Level":10},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":32,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":5,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":22,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":16,"Level":2},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":3,"Level":3},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":9,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":10,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":34,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":21,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":37,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":2,"Level":2},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":4,"Level":2},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":15,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":6,"Level":1}]},"WorkshopUploadID":2339113292,"Title":"Fire Ruins Challenge","Description":"A short 3-level challenge made from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1795698210]this arena[/url].\nA lava lake with narrow paths, fire traps and a deep fog. Also lots of archers.\r\nIf you don't want to kill all enemies, you can parkour up the closer monument and press a button there to drown enemies in lava!\n\nYou have 10 lives and a couple of upgrades. Good luck!\n","SavedVersionNumber":45,"BeatenVersionNumber":45,"NumMindTransfers":5,"GameplayModifiers":{"$type":"System.Collections.Generic.List`1[[GameplayModifierType, Assembly-CSharp]], mscorlib","$values":[]}},{"$type":"LevelEditorChallengeData, Assembly-CSharp","UniqueChallengeID":"3a328ee3-39ba-451f-a11b-72cb3c90c0cf","LevelsAndDifficulties":{"$type":"System.Collections.Generic.List`1[[LevelAndDifficulty, Assembly-CSharp]], mscorlib","$values":[{"$type":"LevelAndDifficulty, Assembly-CSharp","LevelPath":"DefeatKrampus","DifficultyIndex":0,"DialogueTagOverride":null}]},"DisabledUpgrades":{"$type":"System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib","$values":[]},"RemovedFromStartUpgrades":{"$type":"System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib","$values":[]},"AdditionalStartUpgrades":{"$type":"System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib","$values":[{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":13,"Level":10},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":5,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":3,"Level":3},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":4,"Level":2},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":9,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":10,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":32,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":34,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":37,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":36,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":2,"Level":3},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":21,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":16,"Level":3},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":6,"Level":1},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":11,"Level":2},{"$type":"UpgradeTypeAndLevel, Assembly-CSharp","UpgradeType":15,"Level":2}]},"WorkshopUploadID":2360901605,"Title":"Defeat Krampus","Description":"This is a story-like challenge made for the contest.\r\nYour goal is to defeat Krampus by getting into his castle and destroying his strongest minions.\r\nBlue explanation marks are hints.\r\nCollect 6 red & green cubes to unlock a secret.\r\nYou can also find secret shortcuts to make it easier for yourself.\r\n\r\nGood luck!","SavedVersionNumber":62,"BeatenVersionNumber":62,"NumMindTransfers":0,"GameplayModifiers":null}]}}
+{
+    "$type": "ChallengeEditorData, Assembly-CSharp",
+    "LastEditedChallenge": "00000000-0000-0000-0000-000000000000",
+    "Challenges": {
+        "$type": "System.Collections.Generic.List`1[[LevelEditorChallengeData, Assembly-CSharp]], mscorlib",
+        "$values": [
+            {
+                "$type": "LevelEditorChallengeData, Assembly-CSharp",
+                "UniqueChallengeID": "34896be0-1af8-4b10-8ee3-5f26fd4d87df",
+                "LevelsAndDifficulties": {
+                    "$type": "System.Collections.Generic.List`1[[LevelAndDifficulty, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Magic/Challenge/MagicForestSkyBronze",
+                            "DifficultyIndex": 0,
+                            "DialogueTagOverride": null
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Magic/Challenge/MagicForestSky",
+                            "DifficultyIndex": 0,
+                            "DialogueTagOverride": "jump into the ring"
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Magic/Challenge/MagicForestSkySilver",
+                            "DifficultyIndex": 0,
+                            "DialogueTagOverride": "kick bots"
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Magic/Challenge/MagicForestSkyBronze",
+                            "DifficultyIndex": 0,
+                            "DialogueTagOverride": "1v1"
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Magic/Challenge/MagicForestSky",
+                            "DifficultyIndex": 6,
+                            "DialogueTagOverride": "melee"
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Magic/Challenge/MagicForestSkyGold",
+                            "DifficultyIndex": 0,
+                            "DialogueTagOverride": "obstacle course"
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Magic/Challenge/MagicForestSkyDiamond",
+                            "DifficultyIndex": 0,
+                            "DialogueTagOverride": "spider-tron 6000"
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Magic/Challenge/MagicForestSky",
+                            "DifficultyIndex": 8,
+                            "DialogueTagOverride": "kickfest"
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Magic/Challenge/MagicForestSky",
+                            "DifficultyIndex": 9,
+                            "DialogueTagOverride": "firing squad"
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Magic/Challenge/MagicForestSkyUranium",
+                            "DifficultyIndex": 0,
+                            "DialogueTagOverride": "moving platforms"
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Magic/Challenge/MagicForestSky",
+                            "DifficultyIndex": 13,
+                            "DialogueTagOverride": "swarm"
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Magic/Challenge/MagicForestSkyGold",
+                            "DifficultyIndex": 1,
+                            "DialogueTagOverride": "difficult journey"
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Magic/Challenge/MagicForestSky",
+                            "DifficultyIndex": 11,
+                            "DialogueTagOverride": "madness"
+                        }
+                    ]
+                },
+                "DisabledUpgrades": {
+                    "$type": "System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib",
+                    "$values": []
+                },
+                "RemovedFromStartUpgrades": {
+                    "$type": "System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 17,
+                            "Level": 1
+                        }
+                    ]
+                },
+                "AdditionalStartUpgrades": {
+                    "$type": "System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 5,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 13,
+                            "Level": 2
+                        }
+                    ]
+                },
+                "WorkshopUploadID": 2283824013,
+                "Title": "Sky Hights Challenge",
+                "Description": "A challenge inspired by the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2248055773]Sky Hights[/url] arena.\n14 levels featuring different arenas (see screenshots).\nBe careful not to fall off!",
+                "SavedVersionNumber": 105,
+                "BeatenVersionNumber": 99,
+                "NumMindTransfers": 5,
+                "GameplayModifiers": {
+                    "$type": "System.Collections.Generic.List`1[[GameplayModifierType, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                        3
+                    ]
+                }
+            },
+            {
+                "$type": "LevelEditorChallengeData, Assembly-CSharp",
+                "UniqueChallengeID": "6e47a392-dd91-4710-8d1c-e09cdbb4f5b6",
+                "LevelsAndDifficulties": {
+                    "$type": "System.Collections.Generic.List`1[[LevelAndDifficulty, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Fortress/FortressChallenge1",
+                            "DifficultyIndex": 0,
+                            "DialogueTagOverride": null
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Fortress/FortressChallenge2",
+                            "DifficultyIndex": 0,
+                            "DialogueTagOverride": "blue robots"
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Fortress/FortressI",
+                            "DifficultyIndex": 0,
+                            "DialogueTagOverride": "multi-story"
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Fortress/FortressII",
+                            "DifficultyIndex": 3,
+                            "DialogueTagOverride": "red robots"
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Fortress/FortressIII",
+                            "DifficultyIndex": 3,
+                            "DialogueTagOverride": "spider-tron 5000"
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Fortress/FortressIV",
+                            "DifficultyIndex": 9,
+                            "DialogueTagOverride": "jump over lava"
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "Fortress/FortressChallenge7",
+                            "DifficultyIndex": 0,
+                            "DialogueTagOverride": "difficult journey"
+                        }
+                    ]
+                },
+                "DisabledUpgrades": {
+                    "$type": "System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib",
+                    "$values": []
+                },
+                "RemovedFromStartUpgrades": {
+                    "$type": "System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 17,
+                            "Level": 1
+                        }
+                    ]
+                },
+                "AdditionalStartUpgrades": {
+                    "$type": "System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 16,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 32,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 17,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 9,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 5,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 13,
+                            "Level": 2
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 3,
+                            "Level": 1
+                        }
+                    ]
+                },
+                "WorkshopUploadID": 2316927430,
+                "Title": "Iron Fortress Challenge",
+                "Description": "An Iron Fortress is gradually built with every level of this 7-level challenge.\r\nStarting upgrades: Kick, Spear, Sword, Bow, Hammer, Energy 1, Life 2\r\nLevels: 1 - Bronze (600), 2 - Silver (1500), 3 - Gold (2800), 4 - Diamond (4850), 5 - Titanium (6800), 6 - Uranium (19900), 7 - Titanium (45600)\r\nEveryone has armor, levels contain spikes, conveyors, saws, lava, etc.\r\nThe challenge gets gradually more difficult with each level, so be warned.\r\n\r\nHave fun!\r\n\r\nCheckout the arenas:\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1795662950]Mk I (1 bronze, 1 silver, 1 gold, 1 diamond)[/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1795804359]Mk II (1 silver, 1 gold, 1 diamond, 1 titanium, 1 uranium)[/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1796098817]Mk III (1 gold, 1 diamond, 1 titanium, 1 uranium, 1 insanium)[/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2248356035]Mk IV (2 silver, 2 gold, 2 diamond, 2 titanium, 2 uranium, 2 insanium)[/url]",
+                "SavedVersionNumber": 23,
+                "BeatenVersionNumber": 23,
+                "NumMindTransfers": 5,
+                "GameplayModifiers": {
+                    "$type": "System.Collections.Generic.List`1[[GameplayModifierType, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                        2
+                    ]
+                }
+            },
+            {
+                "$type": "LevelEditorChallengeData, Assembly-CSharp",
+                "UniqueChallengeID": "ab9c6ff8-eed2-4da8-8815-9bc092a55467",
+                "LevelsAndDifficulties": {
+                    "$type": "System.Collections.Generic.List`1[[LevelAndDifficulty, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "LavaStuff/LavaRuins",
+                            "DifficultyIndex": 3,
+                            "DialogueTagOverride": "lava"
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "LavaStuff/LavaRuinsExtra",
+                            "DifficultyIndex": 4,
+                            "DialogueTagOverride": "jump over lava"
+                        },
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "LavaStuff/LavaRuinsExtra",
+                            "DifficultyIndex": 3,
+                            "DialogueTagOverride": "spider-tron 6000"
+                        }
+                    ]
+                },
+                "DisabledUpgrades": {
+                    "$type": "System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib",
+                    "$values": []
+                },
+                "RemovedFromStartUpgrades": {
+                    "$type": "System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib",
+                    "$values": []
+                },
+                "AdditionalStartUpgrades": {
+                    "$type": "System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 13,
+                            "Level": 10
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 32,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 5,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 22,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 16,
+                            "Level": 2
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 3,
+                            "Level": 3
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 9,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 10,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 34,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 21,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 37,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 2,
+                            "Level": 2
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 4,
+                            "Level": 2
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 15,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 6,
+                            "Level": 1
+                        }
+                    ]
+                },
+                "WorkshopUploadID": 2339113292,
+                "Title": "Fire Ruins Challenge",
+                "Description": "A short 3-level challenge made from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1795698210]this arena[/url].\nA lava lake with narrow paths, fire traps and a deep fog. Also lots of archers.\r\nIf you don't want to kill all enemies, you can parkour up the closer monument and press a button there to drown enemies in lava!\n\nYou have 10 lives and a couple of upgrades. Good luck!\n",
+                "SavedVersionNumber": 45,
+                "BeatenVersionNumber": 45,
+                "NumMindTransfers": 5,
+                "GameplayModifiers": {
+                    "$type": "System.Collections.Generic.List`1[[GameplayModifierType, Assembly-CSharp]], mscorlib",
+                    "$values": []
+                }
+            },
+            {
+                "$type": "LevelEditorChallengeData, Assembly-CSharp",
+                "UniqueChallengeID": "3a328ee3-39ba-451f-a11b-72cb3c90c0cf",
+                "LevelsAndDifficulties": {
+                    "$type": "System.Collections.Generic.List`1[[LevelAndDifficulty, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                        {
+                            "$type": "LevelAndDifficulty, Assembly-CSharp",
+                            "LevelPath": "DefeatKrampus",
+                            "DifficultyIndex": 0,
+                            "DialogueTagOverride": null
+                        }
+                    ]
+                },
+                "DisabledUpgrades": {
+                    "$type": "System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib",
+                    "$values": []
+                },
+                "RemovedFromStartUpgrades": {
+                    "$type": "System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib",
+                    "$values": []
+                },
+                "AdditionalStartUpgrades": {
+                    "$type": "System.Collections.Generic.List`1[[UpgradeTypeAndLevel, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 13,
+                            "Level": 10
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 5,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 3,
+                            "Level": 3
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 4,
+                            "Level": 2
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 9,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 10,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 32,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 34,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 37,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 36,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 2,
+                            "Level": 3
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 21,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 16,
+                            "Level": 3
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 6,
+                            "Level": 1
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 11,
+                            "Level": 2
+                        },
+                        {
+                            "$type": "UpgradeTypeAndLevel, Assembly-CSharp",
+                            "UpgradeType": 15,
+                            "Level": 2
+                        }
+                    ]
+                },
+                "WorkshopUploadID": 2360901605,
+                "Title": "Defeat Krampus",
+                "Description": "This is a story-like challenge made for the contest.\r\nYour goal is to defeat Krampus by getting into his castle and destroying his strongest minions.\r\nBlue explanation marks are hints.\r\nCollect 6 red & green cubes to unlock a secret.\r\nYou can also find secret shortcuts to make it easier for yourself.\r\n\r\nGood luck!",
+                "SavedVersionNumber": 62,
+                "BeatenVersionNumber": 62,
+                "NumMindTransfers": 0,
+                "GameplayModifiers": null
+            }
+        ]
+    }
+}
